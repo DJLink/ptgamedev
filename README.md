@@ -8,7 +8,7 @@
 | Town  | Frequency   | Place  |  Link  |
 |---|---|---|---|
 | Lisbon  | Every 1st Friday of each Month.  |   |  https://www.facebook.com/groups/gamedevmeet |
-| Porto  | Every last Friday of each Month.  |   |  https://www.facebook.com/NeCGM.FEUP/ |
+| Porto  | Every last Friday of each Month.  | Pólo Zero  |  https://www.facebook.com/NeCGM.FEUP/ |
 |   |   |   |   |
 
 # Online community!
