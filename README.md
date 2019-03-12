@@ -32,6 +32,7 @@ Conferences that have game development talks or focus.
 |---|---| --- |
 | Game Dev Camp  |Yearly conference fully focused on GameDev, with talks and expo area |  Site: https://2018.gamedevcamp.org/ Twitter: https://twitter.com/gamedevcamppt |
 | SINFO  | Yearly tech conference, usually has GameDev talks | https://www.sinfo.org/ |
+| Lisbon Games Conference | Yearly games conference, hosted by university | https://lisbongameconf.iscte-iul.pt/ |
 |  |  |  |
 
 # Expos!
@@ -43,6 +44,7 @@ indie game developers to showcase their games.
 |---|---| --- |
 | IberAnime  | Japanese culture Expo | [https://www.iberanime.com](https://www.iberanime.com/) |
 | Lisboa Games Week  | Yearly, focused on gaming | [https://www.lisboagamesweek.pt/](https://www.lisboagamesweek.pt/) |
+| Comic Con Portugal | Yearly, pop culture in general, includes gaming | http://www.comic-con-portugal.com |
 |  |  |  |
 
 # Game Jams!
