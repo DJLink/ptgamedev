@@ -1,4 +1,3 @@
-# ptgamedev
 # PT Game Dev Community & Resources
 
 Welcome, this is a quick list of meets, conferences and links to communities of game development in Portugal, feel free to contribute.
@@ -6,12 +5,15 @@ Welcome, this is a quick list of meets, conferences and links to communities of 
 # IRL Meets!
 
 Lisbon - Every first Friday of each Month. (https://www.facebook.com/groups/gamedevmeet)
+
 Porto - Every last Friday of each Month. 
 
 # Online community!
 
 Facebook - https://www.facebook.com/groups/592806634072201
+
 Discord - https://discord.gg/huMjq9F
+
 Slack - https://slack.ptgamedev.hugopeixoto.net/
 
 # Events!
