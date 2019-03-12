@@ -7,10 +7,10 @@
 
 Don't be shy, grab your game, (or not, up to you) and come meet other developers.
 
-| Town   | Frequency                        | Location  | Link                                        |
-|--------|----------------------------------|-----------|---------------------------------------------|
-| Lisbon | Every 1st Friday of each Month.  | O Bom O Mau e O Vilão | https://www.facebook.com/groups/gamedevmeet  https://www.facebook.com/pg/aludoteca/events/ |
-| Porto  | Every last Friday of each Month. | Pólo Zero | https://www.facebook.com/NeCGM.FEUP/        |
+| Area   | Frequency                 | Location              | Link                                                         |
+| ------ | ------------------------- | --------------------- | ------------------------------------------------------------ |
+| Lisbon | 1st Friday of each Month  | O Bom O Mau e O Vilão | https://www.facebook.com/groups/gamedevmeet  https://www.facebook.com/pg/aludoteca/events/ |
+| Porto  | Last Friday of each Month | Pólo Zero             | https://www.facebook.com/NeCGM.FEUP/                         |
 
 # Online Communities!
 ## General Communities!
@@ -22,38 +22,60 @@ The quickest way, go say hi and introduce yourself!
 | Discord  | https://discord.gg/huMjq9F                      |
 | Slack    | https://slack.ptgamedev.hugopeixoto.net/        |
 
+## Themed Communities!
+
+Communities dedicated to a specific engine or thematic!
+
+| Name                          | Theme           | Link                                             |
+| ----------------------------- | --------------- | ------------------------------------------------ |
+| Game Audio PT                 | Audio           | https://www.facebook.com/groups/573464019459832/ |
+| Utilizadores de Unity         | Unity Engine    | https://www.facebook.com/groups/unitypt/         |
+| Utilizadores de Game Maker PT | Game Maker      | https://www.facebook.com/groups/gamemakerpt/     |
+| Unreal Engine 4 PT            | Unreal Engine   | https://www.facebook.com/groups/650134295088239/ |
+| A Ludoteca (Jogos 1.0)        | Game Dev Events | https://www.facebook.com/groups/um.ponto.zero/   |
+
 # Conferences!
 
 Conferences that have game development talks or focus.
 
-| Name                               |                                                                          | Link                                                                           |
-|------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Game Dev Camp                      | Yearly conference fully focused on GameDev, with talks and expo area     | Site: https://2018.gamedevcamp.org/ Twitter: https://twitter.com/gamedevcamppt |
-| SINFO                              | Yearly tech conference, usually has GameDev talks                        | https://www.sinfo.org/                                                         |
-| Lisbon Games Conference            | Yearly games conference, hosted by university                            | https://lisbongameconf.iscte-iul.pt/                                           |
-| Software Engineering Week @ Uminho | Yearly tech conference, hosted by the Software Engineering Student Group | https://seium.org                                                            |
+| Name                               | About                                                        | Location                            | Link                                                         |
+| ---------------------------------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
+| Game Dev Camp                      | Yearly conference fully focused on GameDev, with talks and game expo area | Lisbon                              | Site: https://2018.gamedevcamp.org/<br />Twitter: https://twitter.com/gamedevcamppt |
+| SINFO                              | Yearly tech conference, usually has GameDev talks            | Instituto Superior Técnico (Lisbon) | https://www.sinfo.org/                                       |
+| Lisbon Games Conference            | Yearly games conference, hosted by ISCTE, usually has tech talks | ISCTE (Lisbon)                      | https://lisbongameconf.iscte-iul.pt/                         |
+| Software Engineering Week @ UMINHO | Yearly tech conference, hosted by the Software Engineering Student Group | UMINHO (Minho)                      | https://seium.org                                            |
+| IPCA GameDev Week                  | Yearly tech conference, usually has GameDev, Animation and VFX talks | IPCA (São Martinho)                 | http://www.gamedevweek.ipca.pt                               |
 
 # Expos!
 
-Exhibitions that have an area for
-indie game developers to showcase their games.
+Exhibitions that have an area for indie game developers to showcase their games.
 
-| Name               | Description                                     | Link                                       |
-|--------------------|-------------------------------------------------|--------------------------------------------|
-| IberAnime          | Japanese culture Expo                           | https://www.iberanime.com                  |
-| Lisboa Games Week  | Yearly, focused on gaming                       | https://www.lisboagamesweek.pt/            |
-| Comic Con Portugal | Yearly, pop culture in general, includes gaming | http://www.comic-con-portugal.com          |
+| Name               | Description                                     | Link                              |
+| ------------------ | ----------------------------------------------- | --------------------------------- |
+| IberAnime          | Japanese culture Expo                           | https://www.iberanime.com         |
+| Lisboa Games Week  | Yearly, focused on gaming                       | https://www.lisboagamesweek.pt/   |
+| Comic Con Portugal | Yearly, pop culture in general, includes gaming | http://www.comic-con-portugal.com |
 
 # Game Jams!
 
 First time or regular, doesn't matter, pick a team and have fun making games.
 
 | Jam Name        | Frequency              | Link                                                | Type                               |
-|-----------------|------------------------|-----------------------------------------------------|------------------------------------|
+| --------------- | ---------------------- | --------------------------------------------------- | ---------------------------------- |
 | Ludum Dare      | April, October, Yearly | https://ldjam.com/                                  | Online, but some devs get together |
 | Global Game Jam | January, Yearly        | https://globalgamejam.org/2019/jam-sites?country=PT | Local                              |
 | Games for Good  | April, Yearly          | http://www.gamesforgood.pt/                         | Local (Lisbon)                     |
 | Mad Game Jam    | February, Yearly       | https://www.facebook.com/madgamejam/                | Local (Porto)                      |
+
+# Misc!
+
+Other links that don't necessarily fit any of the previous but could still be useful!
+
+| Name                                            | Description                                                                  | Links                           |
+| ----------------------------------------------- | -----------------------------------------------------------------------------| ------------------------------- |
+| A Ludoteca                                      | Event organization and portuguese game industry envagelism                   | https://aludoteca.org/          |
+| Associação de Produtores de Videojogos          | Association looking to foster the videogame development industry in Portugal | https://www.facebook.com/APTVJ/ |
+| Sociedade Portuguesa de Ciências dos Videojogos | Association looking to foster scientific discussion around videogames        | http://www.spcvideojogos.org/   |
 
 # Tech!
 
