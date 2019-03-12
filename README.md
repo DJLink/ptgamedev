@@ -1,17 +1,21 @@
 # PT Game Dev Community & Resources
 
 > Welcome, this is a quick list of meets, conferences and links to communities of game development in Portugal, feel free to contribute.
-> This list is a WIP, anything missing (most likely a lot) please help by adding what it. 
+> This list is a WIP, anything missing (most likely a lot) please help by adding with pull requests or new Issue. 
 
 # IRL Meets!
 
-| Town  | Frequency   | Place  |  Link  |
+Don't be shy, grab your game, (or not, up to you) and come meet other developers.
+
+| Town  | Frequency   | Location  |  Link  |
 |---|---|---|---|
 | Lisbon  | Every 1st Friday of each Month.  |   |  https://www.facebook.com/groups/gamedevmeet |
 | Porto  | Every last Friday of each Month.  | Pólo Zero  |  https://www.facebook.com/NeCGM.FEUP/ |
 |   |   |   |   |
 
 # Online community!
+
+The quickest way, go say Hi and introduce yourself.
 
 | *  | Link |
 |---|---|
@@ -20,7 +24,9 @@
 | Slack  |  https://slack.ptgamedev.hugopeixoto.net/ |
 |  |  |
  
-# Events!
+# Conferences!
+
+Conferences that have game development talks or focus.
 
 | Name  |    | Link |
 |---|---| --- |
@@ -28,7 +34,20 @@
 | SINFO  | Yearly tech conference, usually has GameDev talks | https://www.sinfo.org/ |
 |  |  |  |
 
+# Expos!
+
+Exhibitions that have an area for
+indie game developers to showcase their games.
+
+| Name  | Description | Link |
+|---|---| --- |
+| IberAnime  | Japanese culture Expo | [https://www.iberanime.com](https://www.iberanime.com/) |
+| Lisboa Games Week  | Yearly, focused on gaming | [https://www.lisboagamesweek.pt/](https://www.lisboagamesweek.pt/) |
+|  |  |  |
+
 # Game Jams!
+
+First time or regular, doesn't matter, pick a team and have fun making games.
 
 | *  | Frequency | Link |  Type |
 |---|---| --- | --- |
