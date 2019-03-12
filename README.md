@@ -1,7 +1,7 @@
 # PT Game Dev Community & Resources
 
 > Welcome, this is a quick list of meets, conferences and links to communities of game development in Portugal, feel free to contribute.
-> This list is a WIP, anything missing (most likely a lot) please help by adding what it. 
+> This list is a WIP, anything missing (most likely a lot) please help by adding what it with a pull request.
 
 # IRL Meets!
 
@@ -47,8 +47,8 @@ Game Dev Camp: Yearly conference with talks and expo area.
 
 **Notes**
 
-> This list was born because I thought it would be nice to have a one place landing page with links and resources that can be useful for anyone working in game development in Portugal, or moving here. The idea is that anyone thinking in starting game development, join the community or simply just chat online to quickly find other developers, conferences and meets.
-> There are several places and groups, sometimes when I mention that a Facebook group exists some people get surprised, so I thought it would be cool to have a landing page that is quick to edit and anyone can contribute with a pull request. I hope in the future we can have a list of gamedev meets listed by cities.
+> This list was born because I thought it would be nice to have a one place landing page with links and resources that can be useful for anyone working in game development in Portugal, or moving here and wants to get in touch with the community, conferences and meets.
+> There are several places and groups, sometimes when I mention that a Facebook group exists some get surprised. So by sharing this link, that anyone can contribute I hope this makes it easier. Maybe in the future we'll have a list of gamedev meets in every city in the country.
 > 
 
 
