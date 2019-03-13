@@ -38,13 +38,13 @@ Communities dedicated to a specific engine or thematic!
 
 Conferences that have game development talks or focus.
 
-| Name                               | About                                                        | Location                            | Link                                                         |
-| ---------------------------------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ |
+| Name                               | About                                                                     | Location                            | Link                                                                                |
+| ---------------------------------- | ------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------- |
 | Game Dev Camp                      | Yearly conference fully focused on GameDev, with talks and game expo area | Lisbon                              | Site: https://2018.gamedevcamp.org/<br />Twitter: https://twitter.com/gamedevcamppt |
-| SINFO                              | Yearly tech conference, usually has GameDev talks            | Instituto Superior Técnico (Lisbon) | https://www.sinfo.org/                                       |
-| Lisbon Games Conference            | Yearly games conference, hosted by ISCTE, usually has tech talks | ISCTE (Lisbon)                      | https://lisbongameconf.iscte-iul.pt/                         |
-| Software Engineering Week @ UMINHO | Yearly tech conference, hosted by the Software Engineering Student Group | UMINHO (Minho)                      | https://seium.org                                            |
-| IPCA GameDev Week                  | Yearly tech conference, usually has GameDev, Animation and VFX talks | IPCA (São Martinho)                 | http://www.gamedevweek.ipca.pt                               |
+| SINFO                              | Yearly tech conference, usually has GameDev talks                         | Instituto Superior Técnico (Lisbon) | https://www.sinfo.org/                                                              |
+| Lisbon Games Conference            | Yearly games conference, hosted by ISCTE, usually has tech talks          | ISCTE (Lisbon)                      | https://lisbongameconf.iscte-iul.pt/                                                |
+| Software Engineering Week @ UMinho | Yearly tech conference, hosted by the Software Engineering Student Group  | UMinho (Braga)                      | https://seium.org                                                                   |
+| IPCA GameDev Week                  | Yearly tech conference, usually has GameDev, Animation and VFX talks      | IPCA (São Martinho)                 | http://www.gamedevweek.ipca.pt                                                      |
 
 # Expos!
 
