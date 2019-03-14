@@ -38,13 +38,21 @@ Communities dedicated to a specific engine or thematic!
 
 Conferences that have game development talks or focus.
 
++ ### Game Dev focused
+
 | Name                               | About                                                                     | Location                            | Link                                                                                |
 | ---------------------------------- | ------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------- |
 | Game Dev Camp                      | Yearly conference fully focused on GameDev, with talks and game expo area | Lisbon                              | Site: https://2018.gamedevcamp.org/<br />Twitter: https://twitter.com/gamedevcamppt |
-| SINFO                              | Yearly tech conference, usually has GameDev talks                         | Instituto Superior Técnico (Lisbon) | https://www.sinfo.org/                                                              |
 | Lisbon Games Conference            | Yearly games conference, hosted by ISCTE, usually has tech talks          | ISCTE (Lisbon)                      | https://lisbongameconf.iscte-iul.pt/                                                |
-| Software Engineering Week @ UMinho | Yearly tech conference, hosted by the Software Engineering Student Group  | UMinho (Braga)                      | https://seium.org                                                                   |
-| IPCA GameDev Week                  | Yearly tech conference, usually has GameDev, Animation and VFX talks      | IPCA (São Martinho)                 | http://www.gamedevweek.ipca.pt                                                      |
+| IPCA GameDev Week                  | Yearly tech conference, usually has GameDev, Animation and VFX talks      | IPCA (Barcelos)                 | http://www.gamedevweek.ipca.pt                                                      |
+
++ ### Tech (usually featuring game dev talks, expos, etc.)
+
+| Name                               | About                                                                     | Location                              | Link                                                                                |
+| ---------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------- |
+| SINFO                              | Yearly tech conference, usually has GameDev talks                         | Instituto Superior Técnico (Lisbon) | https://www.sinfo.org/                                                              |
+| Software Engineering Week @ UMinho | Yearly tech conference, hosted by the Software Engineering Student Group  | UMinho (Braga)                      | https://seium.org                                                                     |
+| pixels.camp                        | Yearly tech conference and hackathon, usually has GameDev talks           | Lisbon                              | https://pixels.camp/                                                                  |
 
 # Expos!
 
@@ -66,6 +74,7 @@ First time or regular, doesn't matter, pick a team and have fun making games.
 | Global Game Jam | January, Yearly        | https://globalgamejam.org/2019/jam-sites?country=PT | Local                              |
 | Games for Good  | April, Yearly          | http://www.gamesforgood.pt/                         | Local (Lisbon)                     |
 | Mad Game Jam    | February, Yearly       | https://www.facebook.com/madgamejam/                | Local (Porto)                      |
+| IPCA Game Jam   | June, Yearly           | https://www.facebook.com/ipcagamejam/               | Local (Barcelos)                   |
 
 # Misc!
 
@@ -81,7 +90,7 @@ Other links that don't necessarily fit any of the previous but could still be us
 
 #### Todos
 
- - Add Local Game Meets
+ - ~~Add Local Game Meets~~
  - Add more development focused events (or that usually has a GameDev component)
  - (?)Add a tech section maybe with links to good resources, such as articles, forums or Youtube channels, international or otherwise  
 
