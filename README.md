@@ -20,7 +20,7 @@ The quickest way, go say hi and introduce yourself!
 |----------|-------------------------------------------------|
 | Facebook | https://www.facebook.com/groups/592806634072201 |
 | Discord  | https://discord.gg/huMjq9F                      |
-| Slack    | https://slack.ptgamedev.hugopeixoto.net/        |
+| Slack    | ~~https://slack.ptgamedev.hugopeixoto.net/~~ <br/> (PS: Most Slack members moved to Discord Server)        |
 
 ## Themed Communities!
 
