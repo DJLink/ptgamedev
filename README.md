@@ -82,9 +82,9 @@ Other links that don't necessarily fit any of the previous but could still be us
 
 | Name                                            | Description                                                                  | Links                           |
 | ----------------------------------------------- | -----------------------------------------------------------------------------| ------------------------------- |
-| A Ludoteca                                      | Event organization and portuguese game industry envagelism                   | https://aludoteca.org/          |
 | Associação de Produtores de Videojogos          | Association looking to foster the videogame development industry in Portugal | https://www.facebook.com/APTVJ/ |
 | Sociedade Portuguesa de Ciências dos Videojogos | Association looking to foster scientific discussion around videogames        | http://www.spcvideojogos.org/   |
+| ~~A Ludoteca~~ ([ended in 2022](https://twitter.com/aludoteca/status/1521519706879975425))                  | Event organization and portuguese game industry envagelism               | [https://aludoteca.org/](https://web.archive.org/web/20220331082539/http://aludoteca.org/)      |
 
 # Tech!
 
