@@ -20,6 +20,7 @@ The quickest way, go say hi and introduce yourself!
 |----------|-------------------------------------------------|
 | Facebook | https://www.facebook.com/groups/592806634072201 |
 | Discord  | https://discord.gg/huMjq9F                      |
+| GameDev Lisbon Discord  | [Sign up form](https://gamedevlisbon.com/contact/)                      |
 | Slack    | ~~https://slack.ptgamedev.hugopeixoto.net/~~ <br/> (PS: Most Slack members moved to Discord Server)        |
 
 ## Themed Communities!
@@ -82,6 +83,7 @@ Other links that don't necessarily fit any of the previous but could still be us
 
 | Name                                            | Description                                                                  | Links                           |
 | ----------------------------------------------- | -----------------------------------------------------------------------------| ------------------------------- |
+| GameDev Lisbon          | From Lisbon based developers, for the game industry everywhere, connecting the portuguese gaming scene to the world. | [https://gamedevlisbon.com/](https://gamedevlisbon.com/) |
 | Associação de Produtores de Videojogos          | Association looking to foster the videogame development industry in Portugal | https://www.facebook.com/APTVJ/ |
 | Sociedade Portuguesa de Ciências dos Videojogos | Association looking to foster scientific discussion around videogames        | http://www.spcvideojogos.org/   |
 | ~~A Ludoteca~~ ([ended in 2022](https://twitter.com/aludoteca/status/1521519706879975425))                  | Event organization and portuguese game industry envagelism               | [https://aludoteca.org/](https://web.archive.org/web/20220331082539/http://aludoteca.org/)      |
