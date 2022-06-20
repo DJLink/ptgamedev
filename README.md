@@ -44,7 +44,7 @@ Conferences that have game development talks or focus.
 | Name                               | About                                                                     | Location                            | Link                                                                                |
 | ---------------------------------- | ------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------- |
 | Game Dev Camp                      | Yearly conference fully focused on GameDev, with talks and game expo area | Lisbon                              | Site: https://2018.gamedevcamp.org/<br />Twitter: https://twitter.com/gamedevcamppt |
-| Lisbon Games Conference            | Yearly games conference, hosted by ISCTE, usually has tech talks          | ISCTE (Lisbon)                      | https://lisbongameconf.iscte-iul.pt/                                                |
+| Lisbon Games Conference            | Yearly games conference, hosted by ISCTE, usually has tech talks          | ISCTE (Lisbon)                      | [https://netiscte.pt/lisbongameconference](https://netiscte.pt/lisbongameconference)                                                |
 | IPCA GameDev Week                  | Yearly tech conference, usually has GameDev, Animation and VFX talks      | IPCA (Barcelos)                 | http://www.gamedevweek.ipca.pt                                                      |
 
 + ### Tech (usually featuring game dev talks, expos, etc.)
